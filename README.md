@@ -1,4 +1,6 @@
 ## hwkims/python-trading-bot
+![image](https://github.com/user-attachments/assets/49783342-4f46-4471-9dd2-b7c22f750247)
+![image](https://github.com/user-attachments/assets/d3bbed76-d552-4e83-a414-25248a845cf3)
 
 # 파이썬 백테스팅 & 자동 거래 봇
 
